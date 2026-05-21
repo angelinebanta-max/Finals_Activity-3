@@ -7,4 +7,4 @@
     <input type="submit" value="Submit">
 </form>
 
-<!-- In GET METHOD the data is visible in the URL, whereas in 
+<!-- In GET METHOD the data is visible in the URL, whereas in POST METHOD it is not.-->
